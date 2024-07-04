@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.banner
+{
+    height: 90vh;
+    width: 100%;
+    background-image: url('travel\ blog.jpg');
+
+    /* background-image: url("scenery.jpg"); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
